@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use CRUCIBLE, please cite the paper below."
+title: "CRUCIBLE: A Preregistered, Adversarially Validated Instrument for Certifying Concept Invention"
+authors:
+  - family-names: Black
+    given-names: Hobson
+year: 2026
+repository-code: "https://github.com/pilothobs/crucible-release"
+preferred-citation:
+  type: article
+  title: "CRUCIBLE: A Preregistered, Adversarially Validated Instrument for Certifying Concept Invention — and the First Contender to Pass It"
+  authors:
+    - family-names: Black
+      given-names: Hobson
+  year: 2026
+  notes: "arXiv identifier to be added on announcement"

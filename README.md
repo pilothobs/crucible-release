@@ -21,6 +21,9 @@ reused inspectable concepts satisfying preregistered criteria that
 cheap controls fail.' Nothing in this programme demonstrates AGI,
 general reasoning, or an LLM replacement, and no report may imply it."*
 
+License: PolyForm Noncommercial 1.0.0 — free for research, evaluation,
+and contenders; commercial use requires written permission.
+
 ## Replicate it
 
 ```
