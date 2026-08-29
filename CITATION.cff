@@ -4,7 +4,6 @@ title: "CRUCIBLE: A Preregistered, Adversarially Validated Instrument for Certif
 authors:
   - family-names: Black
     given-names: Hobson
-year: 2026
 repository-code: "https://github.com/pilothobs/crucible-release"
 preferred-citation:
   type: article
