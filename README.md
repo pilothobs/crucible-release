@@ -103,6 +103,12 @@ artifacts/         scored matrices, validation records, falsification
                    passes, freeze manifests, the exposure ledger, the
                    replication report, the retraction analyses
 runners/           the frozen drivers and stream validators
+L3_0_SPEC.md       the world + substrate specification (v0.4, the L3-1
+                   freeze revision) — design rationale; on any
+                   discrepancy the frozen code and manifest win
+L3_0_THREAT_MODEL.md  the generator-leakage threat model (v0.3,
+                   pre-code) the audits were built against
+ERRATA.md          corrections to the record that alter no frozen byte
 replicate.py       the one-command replication (above)
 selfverify.py      manifest check
 ```
