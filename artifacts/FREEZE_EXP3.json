@@ -1,0 +1,32 @@
+{
+ "experiment": "WO-EID-L3-5 / EXP3 Candidate E.3 (confirmation)",
+ "frozen": "2026-08-30",
+ "preregistration": "l3_5/PREREGISTRATION_L35_EXP3.md",
+ "commit_at_freeze": "529711a3d124a1c2625a19bbe8499e9a46d05d80",
+ "training_seeds": [
+  301,
+  302,
+  303,
+  304,
+  305
+ ],
+ "scored_streams": [
+  1009,
+  1013,
+  1019,
+  1021
+ ],
+ "fresh_stream": 1021,
+ "thresholds": {
+  "delta_e": 0.05,
+  "theta_ev": 0.15,
+  "theta_comp": 0.4022
+ },
+ "digests_sha256": {
+  "l3_5/candidate_e3.py": "49f45331338e84399b754d2e1f263bce7e6bacc269ebe315764220150bbd2760",
+  "l3_5/candidate_e2.py": "a96609c96f7ea90d624ff9ac0d79084036bcf6ab4664ff5bbcc0580827705367",
+  "l3_5/candidate_e.py": "9783c9b974bb18ad4e0fcf5df4b2d2390529a993a166ce1d8e452d750b61031c",
+  "l3_5/PREREGISTRATION_L35_EXP3.md": "47e9f5fa441e89235fc355faa262a62134063e528a2c813e48729880f3444423",
+  "l3_2/certify_p004.py": "0e0e271dd4c6d028328e8770eb897f9ed9ad21b4b5e470878124e8fca5302e07"
+ }
+}

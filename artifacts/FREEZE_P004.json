@@ -1,0 +1,13 @@
+{
+ "preregistration": "PREREGISTRATION_004 (commit 0a6735e)",
+ "theta_comp": 0.4022,
+ "S_or": 0.2011,
+ "S_cc": null,
+ "thresholds": {
+  "delta_e": 0.05,
+  "theta_ev": 0.15,
+  "theta_comp": 0.4022
+ },
+ "certify_p004_sha256": "0e0e271dd4c6d028328e8770eb897f9ed9ad21b4b5e470878124e8fca5302e07",
+ "certify_p003_sha256_unchanged": "969c66b8f8597a04821444bfec4c31eaa898500c7ffc076243606ad0d1c5291c"
+}

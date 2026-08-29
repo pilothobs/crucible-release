@@ -1,0 +1,167 @@
+{
+ "streams": {
+  "23": {
+   "oracle_full_composite_shares": {
+    "unit:k1": 0.0,
+    "unit:k2": 0.0,
+    "unit:k3": 0.0
+   },
+   "oracle_ident_composite_shares": {
+    "unit:k1": 0.1678,
+    "unit:k2": 0.1617,
+    "unit:k3": 0.1794
+   },
+   "oracle_full": {
+    "certified": 13,
+    "marker": true,
+    "marker_units": [
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 7,
+    "marker": true,
+    "marker_units": [
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k1",
+     "k9"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "29": {
+   "oracle_full_composite_shares": {
+    "unit:k1": 0.0,
+    "unit:k2": 0.0,
+    "unit:k3": 0.0
+   },
+   "oracle_ident_composite_shares": {
+    "unit:k1": 0.1736,
+    "unit:k2": 0.1746,
+    "unit:k3": 0.1678
+   },
+   "oracle_full": {
+    "certified": 13,
+    "marker": true,
+    "marker_units": [
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 7,
+    "marker": true,
+    "marker_units": [
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k5",
+     "k10"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "31": {
+   "oracle_full_composite_shares": {
+    "unit:k1": 0.0,
+    "unit:k2": 0.0,
+    "unit:k3": 0.0
+   },
+   "oracle_ident_composite_shares": {
+    "unit:k1": 0.183,
+    "unit:k2": 0.2011,
+    "unit:k3": 0.157
+   },
+   "oracle_full": {
+    "certified": 13,
+    "marker": true,
+    "marker_units": [
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 8,
+    "marker": true,
+    "marker_units": [
+     "k23",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k5",
+     "k9"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  }
+ },
+ "stops": [],
+ "pass": true,
+ "S_or": 0.2011,
+ "S_cc": null,
+ "theta_comp": 0.4022,
+ "wall_seconds": 57.8
+}

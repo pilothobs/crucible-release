@@ -1,0 +1,142 @@
+{
+ "streams": {
+  "1009": {
+   "oracle_full": {
+    "certified": 13,
+    "marker": true,
+    "marker_units": [
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 7,
+    "marker": true,
+    "composite_shares": {
+     "unit:k1": 0.1562,
+     "unit:k2": 0.1521,
+     "unit:k3": 0.1783
+    }
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k1",
+     "k6"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "1013": {
+   "oracle_full": {
+    "certified": 14,
+    "marker": true,
+    "marker_units": [
+     "k10",
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 7,
+    "marker": true,
+    "composite_shares": {
+     "unit:k1": 0.1569,
+     "unit:k2": 0.1568,
+     "unit:k3": 0.1637
+    }
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k1",
+     "k9"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "1019": {
+   "oracle_full": {
+    "certified": 13,
+    "marker": true,
+    "marker_units": [
+     "k18",
+     "k22",
+     "k23",
+     "k28",
+     "unit:k1",
+     "unit:k2",
+     "unit:k3"
+    ]
+   },
+   "oracle_ident": {
+    "certified": 8,
+    "marker": true,
+    "composite_shares": {
+     "unit:k1": 0.1691,
+     "unit:k2": 0.1828,
+     "unit:k3": 0.1424
+    }
+   },
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k1",
+     "k10"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  }
+ },
+ "pass": true,
+ "thresholds": {
+  "delta_e": 0.05,
+  "theta_ev": 0.15,
+  "theta_comp": 0.4022
+ },
+ "a10": {
+  "holdout_violations_pre_ER": 0,
+  "cracked_pre_EC": 0,
+  "pass": true
+ }
+}

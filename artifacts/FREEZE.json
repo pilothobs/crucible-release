@@ -1,0 +1,51 @@
+{
+ "experiment": "WO-EID-L3-5 / EXP1 Candidate E (KEYSTONE)",
+ "frozen": "2026-08-29",
+ "preregistration": "l3_5/PREREGISTRATION_L35_EXP1.md (with Amendment 1)",
+ "commit_at_freeze": "992bb34b5bb3032499555afd6ce64d9ea3eb3383",
+ "training_seeds": [
+  201,
+  202,
+  203,
+  204,
+  205
+ ],
+ "verdict_streams": [
+  23,
+  29,
+  31
+ ],
+ "dev_streams": [
+  997,
+  998,
+  999
+ ],
+ "reference_engine": "OracleFull(seed=90001+stream)",
+ "thresholds": {
+  "delta_b": 0.05,
+  "delta_e": 0.05,
+  "theta_ev": 0.15,
+  "f_d": 0.1,
+  "tau_d": 0.05,
+  "alpha": 0.05
+ },
+ "digests_sha256": {
+  "l3_5/candidate_e.py": "9783c9b974bb18ad4e0fcf5df4b2d2390529a993a166ce1d8e452d750b61031c",
+  "l3_5/PREREGISTRATION_L35_EXP1.md": "9acd7bc9a71f7e2b973604cdc3db2eff2e4968b507e6fc4a9e7085eecb5d8bcf",
+  "l3_5/validate_streams.py": "560b3754e5b99cc660eb11fbea590e877bcf5f236ec26c573623c9561142d4da",
+  "l3_5/stream_validation.json": "784486a547ff556e760c5b4644895fee08147001faecd99e70edea6490ba3de5",
+  "l3_3/proposer.py": "da0566f2fdcc61d196a8d2e62202d17ae50d05c6f25ac76f99da31bf0869a7b3",
+  "l3_2/certify_p003.py": "969c66b8f8597a04821444bfec4c31eaa898500c7ffc076243606ad0d1c5291c",
+  "crucible/constants.py": "4c42ef879895bf28e90be1cd87588f0db12e49b0d30dad678b8cb21ea077097c",
+  "crucible/dyn_a.py": "6a968dea70fd312880532aadcf9648e43d6dbada467672086cefef8c55878513",
+  "crucible/dyn_b.py": "6cb6f5dc84fd8a6fae5b4e1831e9c8736839f930b7d382903c83b9a06d249235",
+  "crucible/gen.py": "c7390d32b3d4b705918a8b8c23a14f93f11e88abe7a890bed4d0d64c59652b50",
+  "crucible/grammar.py": "a4f11ef65de072409af7ecb5f27b27679e030725fdf6097452dd1eeaf4f1e37e",
+  "crucible/library.py": "25247c91a70cd39cc471af9d14218cc135691ef3c72bdf21aec5da0c118c558b",
+  "crucible/engine.py": "e20503a59af394c0057c0dc8ee2b65b32482719645c037146b3af9fab7dfa8cc",
+  "crucible/policies.py": "3580ea938d38b3c3501e989fcafa5a99019de63f038016eecd19b8ea3f78ff75",
+  "crucible/audits.py": "519805a67d1069eb36fbbcb19e1d80b2396dc0e4f71a7d0cfa5dfc1c0e00d8f6",
+  "crucible/planted.py": "636783a69775611b9878805d8437c1300be4e6abb9328aaa0bd6f7db325ea45f",
+  "crucible/tracecheck.py": "f5bc7268be59ac1029da8e7bd66a6bb2b37feef4e2d63a9b9e836e903a69fc88"
+ }
+}

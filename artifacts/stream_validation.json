@@ -1,0 +1,82 @@
+{
+ "streams": {
+  "23": {
+   "oracle_certified": 16,
+   "oracle_marker": true,
+   "ident_certified": 7,
+   "ident_marker": true,
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k1",
+     "k9"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "29": {
+   "oracle_certified": 16,
+   "oracle_marker": true,
+   "ident_certified": 7,
+   "ident_marker": true,
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k5",
+     "k10"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  },
+  "31": {
+   "oracle_certified": 16,
+   "oracle_marker": true,
+   "ident_certified": 8,
+   "ident_marker": true,
+   "controls": {
+    "null_empty": 0,
+    "null_default": 0,
+    "static": 0,
+    "ambient_corr": 0,
+    "lookup": 0,
+    "cluster": 0,
+    "cluster_wild": 0,
+    "cluster_greedy": 0
+   },
+   "cluster_regression_form": {
+    "stop_era": [
+     "k5",
+     "k9"
+    ],
+    "flipped": true
+   },
+   "pass": true
+  }
+ },
+ "pass": true,
+ "a10": {
+  "holdout_violations_pre_ER": 0,
+  "cracked_pre_EC": 0,
+  "pass": true
+ }
+}

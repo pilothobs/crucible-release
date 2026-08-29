@@ -1,0 +1,32 @@
+{
+ "artifact": "WO-EID-L3-3 Candidate D freeze",
+ "development_exposure": {
+  "declared": "mechanism debugging used eval stream 17 for 8 early iterations before switching to dev stream 999; no hyperparameter was chosen from stream-17 numbers, but mechanism choices saw stream-17 outcomes.  Mitigation: the V-pass checks stream-wise consistency (17 vs 18/19, which development never touched); a systematic 17-advantage flags contamination.",
+  "dev_stream_seed": 999
+ },
+ "hyperparameters": {
+  "BEAM_PAIRCMP": 200,
+  "BEAM_PARTITIONS": 40,
+  "K_ASSERT": 2,
+  "W_COMPRESS": 25,
+  "eval_streams": [
+   17,
+   18,
+   19
+  ],
+  "training_seeds": [
+   101,
+   102,
+   103,
+   104,
+   105
+  ]
+ },
+ "sources_sha256": {
+  "l3_2/certify.py": "4c1e77cd0c84e573c36542d271b6571b8e7904eef273d770aba2e7a5ac4b0d3b",
+  "l3_2/certify_p003.py": "969c66b8f8597a04821444bfec4c31eaa898500c7ffc076243606ad0d1c5291c",
+  "l3_3/WO_EID_L3_3.md": "f474bc59888f603437b88075fa7ebeff8ec636986557dc85a792621ba5bb40cb",
+  "l3_3/proposer.py": "da0566f2fdcc61d196a8d2e62202d17ae50d05c6f25ac76f99da31bf0869a7b3",
+  "l3_3/run_l3_3.py": "4953d1efd19fe94de6701f9960db7ef6edc2426efa29ed432629f63c52f46b59"
+ }
+}

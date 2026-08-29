@@ -1,0 +1,2290 @@
+{
+ "freeze_digest": "a96609c96f7ea90d624ff9ac0d79084036bcf6ab4664ff5bbcc0580827705367",
+ "theta_comp": 0.4022,
+ "runs": {
+  "301/1009": {
+   "marker": true,
+   "marker_units": [
+    "unit:k53"
+   ],
+   "certified": [
+    "k13",
+    "unit:k53"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.076,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2446.5,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0679,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.076
+     },
+     "abstention": {
+      "scope": 185,
+      "ref_resolved": 185,
+      "participation": 110,
+      "share": 0.1946
+     }
+    },
+    "unit:k53": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0954,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3200.1,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1595,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0954
+     },
+     "abstention": {
+      "scope": 617,
+      "ref_resolved": 617,
+      "participation": 183,
+      "share": 0.3533
+     }
+    }
+   },
+   "composites": {
+    "unit:k53": {
+     "share": 0.3533,
+     "state": "certified",
+     "b": 0.0954,
+     "e": 0.1595
+    },
+    "unit:k54": {
+     "share": 0.3738,
+     "state": "failed",
+     "b": 0.0387,
+     "e": 0.0957
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6918896321070234,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     299
+    ],
+    "mid": [
+     0.7525,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     86
+    ],
+    "weathered:mid": [
+     0.5932203389830508,
+     177
+    ],
+    "post": [
+     0.6948818897637795,
+     1524
+    ],
+    "pre_ident:post": [
+     0.0,
+     197
+    ],
+    "k_new:post": [
+     0.64375,
+     480
+    ],
+    "weathered:post": [
+     0.6402266288951841,
+     353
+    ],
+    "fc_unseen:post": [
+     0.6274509803921569,
+     51
+    ],
+    "fc_seen:post": [
+     0.6363636363636364,
+     33
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k43"
+   },
+   "action_distribution": {
+    "tap": 3890,
+    "soak": 2673,
+    "heat": 5254,
+    "grind": 183
+   },
+   "total_bits": 53426.996360218705,
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 189,
+    "batches": 54,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     74,
+     124,
+     349,
+     424
+    ]
+   }
+  },
+  "301/1013": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k10"
+   ],
+   "certified_units": {
+    "k10": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0875,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2516.0,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.081,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0875
+     },
+     "abstention": {
+      "scope": 151,
+      "ref_resolved": 151,
+      "participation": 99,
+      "share": 0.3444
+     }
+    }
+   },
+   "composites": {
+    "unit:k52": {
+     "share": 0.5387,
+     "state": "uncertifiable-untested",
+     "b": 0.1129,
+     "e": 0.194
+    },
+    "unit:k53": {
+     "share": 0.644,
+     "state": "uncertifiable-untested",
+     "b": 0.0423,
+     "e": 0.1173
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6224916387959866,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     224
+    ],
+    "mid": [
+     0.605,
+     800
+    ],
+    "weathered:mid": [
+     0.5443786982248521,
+     169
+    ],
+    "pre_ident:mid": [
+     0.0,
+     82
+    ],
+    "post": [
+     0.5364583333333334,
+     1536
+    ],
+    "pre_ident:post": [
+     0.0,
+     244
+    ],
+    "k_new:post": [
+     0.5184381778741866,
+     461
+    ],
+    "fc_unseen:post": [
+     0.3333333333333333,
+     6
+    ],
+    "fc_seen:post": [
+     0.696969696969697,
+     66
+    ],
+    "weathered:post": [
+     0.48138297872340424,
+     376
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 7,
+    "aprules": 4,
+    "guard": null
+   },
+   "action_distribution": {
+    "tap": 3700,
+    "soak": 2823,
+    "heat": 5193,
+    "grind": 284
+   },
+   "total_bits": 55751.93676159831,
+   "stats": {
+    "internal_evals": 6301,
+    "ops_submitted": 192,
+    "batches": 62,
+    "retractions": 1,
+    "decoys_generated": 925,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   }
+  },
+  "301/1019": {
+   "marker": true,
+   "marker_units": [
+    "unit:k55"
+   ],
+   "certified": [
+    "k13",
+    "unit:k55"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0848,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3316.6,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0622,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0848
+     },
+     "abstention": {
+      "scope": 155,
+      "ref_resolved": 155,
+      "participation": 103,
+      "share": 0.1355
+     }
+    },
+    "unit:k55": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.1306,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3169.0,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1648,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1306
+     },
+     "abstention": {
+      "scope": 604,
+      "ref_resolved": 604,
+      "participation": 210,
+      "share": 0.3709
+     }
+    }
+   },
+   "composites": {
+    "unit:k55": {
+     "share": 0.3709,
+     "state": "certified",
+     "b": 0.1306,
+     "e": 0.1648
+    },
+    "unit:k56": {
+     "share": 0.4209,
+     "state": "uncertifiable-untested",
+     "b": 0.0663,
+     "e": 0.0984
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.7922240802675585,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     234
+    ],
+    "mid": [
+     0.68125,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     102
+    ],
+    "weathered:mid": [
+     0.5786516853932584,
+     178
+    ],
+    "post": [
+     0.5966996699669967,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     268
+    ],
+    "k_new:post": [
+     0.6255230125523012,
+     478
+    ],
+    "fc_unseen:post": [
+     0.5588235294117647,
+     34
+    ],
+    "weathered:post": [
+     0.6545454545454545,
+     330
+    ],
+    "fc_seen:post": [
+     0.5932203389830508,
+     59
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k45"
+   },
+   "action_distribution": {
+    "tap": 3853,
+    "soak": 2735,
+    "heat": 5189,
+    "grind": 223
+   },
+   "total_bits": 53377.047757978515,
+   "stats": {
+    "internal_evals": 6012,
+    "ops_submitted": 195,
+    "batches": 64,
+    "retractions": 0,
+    "decoys_generated": 844,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     49,
+     324,
+     424
+    ]
+   }
+  },
+  "302/1009": {
+   "marker": true,
+   "marker_units": [
+    "unit:k53"
+   ],
+   "certified": [
+    "k13",
+    "unit:k53"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0752,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2301.0,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0679,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0752
+     },
+     "abstention": {
+      "scope": 185,
+      "ref_resolved": 185,
+      "participation": 109,
+      "share": 0.1946
+     }
+    },
+    "unit:k53": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0981,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3165.6,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1605,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0981
+     },
+     "abstention": {
+      "scope": 617,
+      "ref_resolved": 617,
+      "participation": 186,
+      "share": 0.3533
+     }
+    }
+   },
+   "composites": {
+    "unit:k53": {
+     "share": 0.3533,
+     "state": "certified",
+     "b": 0.0981,
+     "e": 0.1605
+    },
+    "unit:k54": {
+     "share": 0.3721,
+     "state": "failed",
+     "b": 0.0404,
+     "e": 0.0967
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6960702341137124,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     299
+    ],
+    "mid": [
+     0.74875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     86
+    ],
+    "weathered:mid": [
+     0.5932203389830508,
+     177
+    ],
+    "post": [
+     0.6948818897637795,
+     1524
+    ],
+    "pre_ident:post": [
+     0.0,
+     197
+    ],
+    "k_new:post": [
+     0.6458333333333334,
+     480
+    ],
+    "weathered:post": [
+     0.6402266288951841,
+     353
+    ],
+    "fc_unseen:post": [
+     0.6274509803921569,
+     51
+    ],
+    "fc_seen:post": [
+     0.6363636363636364,
+     33
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k43"
+   },
+   "action_distribution": {
+    "tap": 3913,
+    "soak": 2648,
+    "heat": 5225,
+    "grind": 214
+   },
+   "total_bits": 53480.826654881035,
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 189,
+    "batches": 54,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     74,
+     124,
+     349,
+     424
+    ]
+   }
+  },
+  "302/1013": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k10"
+   ],
+   "certified_units": {
+    "k10": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.089,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2412.2,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0778,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.089
+     },
+     "abstention": {
+      "scope": 151,
+      "ref_resolved": 151,
+      "participation": 96,
+      "share": 0.3642
+     }
+    }
+   },
+   "composites": {
+    "unit:k52": {
+     "share": 0.544,
+     "state": "uncertifiable-untested",
+     "b": 0.1154,
+     "e": 0.1908
+    },
+    "unit:k53": {
+     "share": 0.6518,
+     "state": "uncertifiable-untested",
+     "b": 0.0431,
+     "e": 0.1141
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6245819397993311,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     224
+    ],
+    "mid": [
+     0.61,
+     800
+    ],
+    "weathered:mid": [
+     0.5325443786982249,
+     169
+    ],
+    "pre_ident:mid": [
+     0.0,
+     82
+    ],
+    "post": [
+     0.5345052083333334,
+     1536
+    ],
+    "pre_ident:post": [
+     0.0,
+     244
+    ],
+    "k_new:post": [
+     0.5162689804772235,
+     461
+    ],
+    "fc_unseen:post": [
+     0.42857142857142855,
+     7
+    ],
+    "fc_seen:post": [
+     0.6923076923076923,
+     65
+    ],
+    "weathered:post": [
+     0.4787234042553192,
+     376
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 7,
+    "aprules": 4,
+    "guard": null
+   },
+   "action_distribution": {
+    "tap": 3738,
+    "soak": 2814,
+    "heat": 5128,
+    "grind": 320
+   },
+   "total_bits": 55820.00515794488,
+   "stats": {
+    "internal_evals": 6301,
+    "ops_submitted": 192,
+    "batches": 62,
+    "retractions": 1,
+    "decoys_generated": 925,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   }
+  },
+  "302/1019": {
+   "marker": true,
+   "marker_units": [
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified": [
+    "k13",
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0742,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3392.1,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0674,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0742
+     },
+     "abstention": {
+      "scope": 178,
+      "ref_resolved": 178,
+      "participation": 106,
+      "share": 0.1124
+     }
+    },
+    "unit:k55": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.1173,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3265.8,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1762,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1173
+     },
+     "abstention": {
+      "scope": 604,
+      "ref_resolved": 604,
+      "participation": 216,
+      "share": 0.303
+     }
+    },
+    "unit:k56": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0519,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 820.6,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1078,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0519
+     },
+     "abstention": {
+      "scope": 575,
+      "ref_resolved": 575,
+      "participation": 168,
+      "share": 0.36
+     }
+    }
+   },
+   "composites": {
+    "unit:k55": {
+     "share": 0.303,
+     "state": "certified",
+     "b": 0.1173,
+     "e": 0.1762
+    },
+    "unit:k56": {
+     "share": 0.36,
+     "state": "certified",
+     "b": 0.0519,
+     "e": 0.1078
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.7918060200668896,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     234
+    ],
+    "mid": [
+     0.77,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     85
+    ],
+    "weathered:mid": [
+     0.5730337078651685,
+     178
+    ],
+    "post": [
+     0.7023102310231023,
+     1515
+    ],
+    "k_new:post": [
+     0.6757322175732218,
+     478
+    ],
+    "fc_unseen:post": [
+     0.6129032258064516,
+     31
+    ],
+    "weathered:post": [
+     0.7151515151515152,
+     330
+    ],
+    "pre_ident:post": [
+     0.0,
+     221
+    ],
+    "fc_seen:post": [
+     0.6774193548387096,
+     62
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k45"
+   },
+   "action_distribution": {
+    "tap": 3587,
+    "soak": 2830,
+    "heat": 5272,
+    "grind": 311
+   },
+   "total_bits": 51211.12045102543,
+   "stats": {
+    "internal_evals": 6012,
+    "ops_submitted": 195,
+    "batches": 64,
+    "retractions": 0,
+    "decoys_generated": 844,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     49,
+     374,
+     424
+    ]
+   }
+  },
+  "303/1009": {
+   "marker": true,
+   "marker_units": [
+    "unit:k53"
+   ],
+   "certified": [
+    "k13",
+    "unit:k53"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0756,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2415.7,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0669,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0756
+     },
+     "abstention": {
+      "scope": 185,
+      "ref_resolved": 185,
+      "participation": 108,
+      "share": 0.1946
+     }
+    },
+    "unit:k53": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0969,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3186.3,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1595,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0969
+     },
+     "abstention": {
+      "scope": 617,
+      "ref_resolved": 617,
+      "participation": 184,
+      "share": 0.3517
+     }
+    }
+   },
+   "composites": {
+    "unit:k53": {
+     "share": 0.3517,
+     "state": "certified",
+     "b": 0.0969,
+     "e": 0.1595
+    },
+    "unit:k54": {
+     "share": 0.3704,
+     "state": "failed",
+     "b": 0.0381,
+     "e": 0.0957
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6939799331103679,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     299
+    ],
+    "mid": [
+     0.7525,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     86
+    ],
+    "weathered:mid": [
+     0.5932203389830508,
+     177
+    ],
+    "post": [
+     0.6955380577427821,
+     1524
+    ],
+    "pre_ident:post": [
+     0.0,
+     197
+    ],
+    "k_new:post": [
+     0.6458333333333334,
+     480
+    ],
+    "weathered:post": [
+     0.6402266288951841,
+     353
+    ],
+    "fc_unseen:post": [
+     0.5777777777777777,
+     45
+    ],
+    "fc_seen:post": [
+     0.717948717948718,
+     39
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k43"
+   },
+   "action_distribution": {
+    "tap": 3899,
+    "soak": 2667,
+    "heat": 5258,
+    "grind": 176
+   },
+   "total_bits": 53435.29693156526,
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 189,
+    "batches": 54,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     74,
+     124,
+     349,
+     424
+    ]
+   }
+  },
+  "303/1013": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k10"
+   ],
+   "certified_units": {
+    "k10": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0887,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2477.9,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.081,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0887
+     },
+     "abstention": {
+      "scope": 151,
+      "ref_resolved": 151,
+      "participation": 99,
+      "share": 0.3444
+     }
+    }
+   },
+   "composites": {
+    "unit:k52": {
+     "share": 0.5405,
+     "state": "uncertifiable-untested",
+     "b": 0.1127,
+     "e": 0.193
+    },
+    "unit:k53": {
+     "share": 0.6466,
+     "state": "uncertifiable-untested",
+     "b": 0.0421,
+     "e": 0.1162
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6212374581939799,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     224
+    ],
+    "mid": [
+     0.6125,
+     800
+    ],
+    "weathered:mid": [
+     0.5443786982248521,
+     169
+    ],
+    "pre_ident:mid": [
+     0.0,
+     82
+    ],
+    "post": [
+     0.5325520833333334,
+     1536
+    ],
+    "pre_ident:post": [
+     0.0,
+     244
+    ],
+    "k_new:post": [
+     0.5162689804772235,
+     461
+    ],
+    "fc_unseen:post": [
+     0.6153846153846154,
+     13
+    ],
+    "fc_seen:post": [
+     0.6779661016949152,
+     59
+    ],
+    "weathered:post": [
+     0.4787234042553192,
+     376
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 7,
+    "aprules": 4,
+    "guard": null
+   },
+   "action_distribution": {
+    "tap": 3719,
+    "soak": 2814,
+    "heat": 5206,
+    "grind": 261
+   },
+   "total_bits": 55682.5546051416,
+   "stats": {
+    "internal_evals": 6302,
+    "ops_submitted": 192,
+    "batches": 62,
+    "retractions": 1,
+    "decoys_generated": 926,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   }
+  },
+  "303/1019": {
+   "marker": true,
+   "marker_units": [
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified": [
+    "k13",
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0838,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3238.3,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0611,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0838
+     },
+     "abstention": {
+      "scope": 156,
+      "ref_resolved": 156,
+      "participation": 102,
+      "share": 0.1346
+     }
+    },
+    "unit:k55": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.1298,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3189.8,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1668,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1298
+     },
+     "abstention": {
+      "scope": 604,
+      "ref_resolved": 604,
+      "participation": 211,
+      "share": 0.3576
+     }
+    },
+    "unit:k56": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0656,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 799.8,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1005,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0656
+     },
+     "abstention": {
+      "scope": 575,
+      "ref_resolved": 575,
+      "participation": 167,
+      "share": 0.4017
+     }
+    }
+   },
+   "composites": {
+    "unit:k55": {
+     "share": 0.3576,
+     "state": "certified",
+     "b": 0.1298,
+     "e": 0.1668
+    },
+    "unit:k56": {
+     "share": 0.4017,
+     "state": "certified",
+     "b": 0.0656,
+     "e": 0.1005
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.7918060200668896,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     234
+    ],
+    "mid": [
+     0.68,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     102
+    ],
+    "weathered:mid": [
+     0.5786516853932584,
+     178
+    ],
+    "post": [
+     0.6066006600660065,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     263
+    ],
+    "k_new:post": [
+     0.6401673640167364,
+     478
+    ],
+    "fc_unseen:post": [
+     0.5882352941176471,
+     34
+    ],
+    "weathered:post": [
+     0.6636363636363637,
+     330
+    ],
+    "fc_seen:post": [
+     0.6271186440677966,
+     59
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k45"
+   },
+   "action_distribution": {
+    "tap": 3850,
+    "soak": 2751,
+    "heat": 5177,
+    "grind": 222
+   },
+   "total_bits": 53187.54134454156,
+   "stats": {
+    "internal_evals": 6012,
+    "ops_submitted": 195,
+    "batches": 64,
+    "retractions": 0,
+    "decoys_generated": 844,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     49,
+     324,
+     449
+    ]
+   }
+  },
+  "304/1009": {
+   "marker": true,
+   "marker_units": [
+    "unit:k53"
+   ],
+   "certified": [
+    "k13",
+    "unit:k53"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0748,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2415.3,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0658,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0748
+     },
+     "abstention": {
+      "scope": 185,
+      "ref_resolved": 185,
+      "participation": 107,
+      "share": 0.1946
+     }
+    },
+    "unit:k53": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.099,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3214.0,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1584,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.099
+     },
+     "abstention": {
+      "scope": 617,
+      "ref_resolved": 617,
+      "participation": 183,
+      "share": 0.3517
+     }
+    }
+   },
+   "composites": {
+    "unit:k53": {
+     "share": 0.3517,
+     "state": "certified",
+     "b": 0.099,
+     "e": 0.1584
+    },
+    "unit:k54": {
+     "share": 0.3704,
+     "state": "failed",
+     "b": 0.0402,
+     "e": 0.0947
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6943979933110368,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     299
+    ],
+    "mid": [
+     0.75,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     86
+    ],
+    "weathered:mid": [
+     0.5932203389830508,
+     177
+    ],
+    "post": [
+     0.6948818897637795,
+     1524
+    ],
+    "pre_ident:post": [
+     0.0,
+     197
+    ],
+    "k_new:post": [
+     0.64375,
+     480
+    ],
+    "weathered:post": [
+     0.6402266288951841,
+     353
+    ],
+    "fc_unseen:post": [
+     0.6274509803921569,
+     51
+    ],
+    "fc_seen:post": [
+     0.6666666666666666,
+     33
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k43"
+   },
+   "action_distribution": {
+    "tap": 3904,
+    "soak": 2645,
+    "heat": 5238,
+    "grind": 213
+   },
+   "total_bits": 53424.08405586133,
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 189,
+    "batches": 54,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     74,
+     124,
+     349,
+     424
+    ]
+   }
+  },
+  "304/1013": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k10"
+   ],
+   "certified_units": {
+    "k10": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0885,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2526.4,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0821,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0885
+     },
+     "abstention": {
+      "scope": 151,
+      "ref_resolved": 151,
+      "participation": 100,
+      "share": 0.3377
+     }
+    }
+   },
+   "composites": {
+    "unit:k52": {
+     "share": 0.5387,
+     "state": "uncertifiable-untested",
+     "b": 0.1129,
+     "e": 0.194
+    },
+    "unit:k53": {
+     "share": 0.644,
+     "state": "uncertifiable-untested",
+     "b": 0.0429,
+     "e": 0.1173
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6229096989966555,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     224
+    ],
+    "mid": [
+     0.615,
+     800
+    ],
+    "weathered:mid": [
+     0.5502958579881657,
+     169
+    ],
+    "pre_ident:mid": [
+     0.0,
+     82
+    ],
+    "post": [
+     0.5358072916666666,
+     1536
+    ],
+    "pre_ident:post": [
+     0.0,
+     244
+    ],
+    "k_new:post": [
+     0.5140997830802603,
+     461
+    ],
+    "fc_unseen:post": [
+     0.75,
+     8
+    ],
+    "fc_seen:post": [
+     0.65625,
+     64
+    ],
+    "weathered:post": [
+     0.47606382978723405,
+     376
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 7,
+    "aprules": 4,
+    "guard": null
+   },
+   "action_distribution": {
+    "tap": 3730,
+    "soak": 2793,
+    "heat": 5163,
+    "grind": 314
+   },
+   "total_bits": 55782.86225820141,
+   "stats": {
+    "internal_evals": 6302,
+    "ops_submitted": 192,
+    "batches": 62,
+    "retractions": 1,
+    "decoys_generated": 926,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   }
+  },
+  "304/1019": {
+   "marker": true,
+   "marker_units": [
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified": [
+    "k13",
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0817,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3325.3,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0684,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0817
+     },
+     "abstention": {
+      "scope": 164,
+      "ref_resolved": 164,
+      "participation": 111,
+      "share": 0.1098
+     }
+    },
+    "unit:k55": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.1325,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3272.7,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1762,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1325
+     },
+     "abstention": {
+      "scope": 604,
+      "ref_resolved": 604,
+      "participation": 213,
+      "share": 0.3543
+     }
+    },
+    "unit:k56": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.069,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 872.4,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1088,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.069
+     },
+     "abstention": {
+      "scope": 575,
+      "ref_resolved": 575,
+      "participation": 178,
+      "share": 0.3826
+     }
+    }
+   },
+   "composites": {
+    "unit:k55": {
+     "share": 0.3543,
+     "state": "certified",
+     "b": 0.1325,
+     "e": 0.1762
+    },
+    "unit:k56": {
+     "share": 0.3826,
+     "state": "certified",
+     "b": 0.069,
+     "e": 0.1088
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.7926421404682275,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     234
+    ],
+    "mid": [
+     0.75625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     91
+    ],
+    "weathered:mid": [
+     0.6179775280898876,
+     178
+    ],
+    "post": [
+     0.6059405940594059,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     263
+    ],
+    "k_new:post": [
+     0.6401673640167364,
+     478
+    ],
+    "fc_unseen:post": [
+     0.5882352941176471,
+     34
+    ],
+    "weathered:post": [
+     0.6636363636363637,
+     330
+    ],
+    "fc_seen:post": [
+     0.6271186440677966,
+     59
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k45"
+   },
+   "action_distribution": {
+    "tap": 3785,
+    "soak": 2740,
+    "heat": 5187,
+    "grind": 288
+   },
+   "total_bits": 52651.37013959125,
+   "stats": {
+    "internal_evals": 6012,
+    "ops_submitted": 195,
+    "batches": 64,
+    "retractions": 0,
+    "decoys_generated": 844,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     49,
+     374,
+     449
+    ]
+   }
+  },
+  "305/1009": {
+   "marker": true,
+   "marker_units": [
+    "unit:k53"
+   ],
+   "certified": [
+    "k13",
+    "unit:k53"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0742,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2255.7,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0658,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0742
+     },
+     "abstention": {
+      "scope": 185,
+      "ref_resolved": 185,
+      "participation": 108,
+      "share": 0.1946
+     }
+    },
+    "unit:k53": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.0975,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3120.6,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1584,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0975
+     },
+     "abstention": {
+      "scope": 617,
+      "ref_resolved": 617,
+      "participation": 183,
+      "share": 0.3533
+     }
+    }
+   },
+   "composites": {
+    "unit:k53": {
+     "share": 0.3533,
+     "state": "certified",
+     "b": 0.0975,
+     "e": 0.1584
+    },
+    "unit:k54": {
+     "share": 0.3721,
+     "state": "failed",
+     "b": 0.0396,
+     "e": 0.0947
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6939799331103679,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     299
+    ],
+    "mid": [
+     0.75125,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     86
+    ],
+    "weathered:mid": [
+     0.5932203389830508,
+     177
+    ],
+    "post": [
+     0.6942257217847769,
+     1524
+    ],
+    "pre_ident:post": [
+     0.0,
+     197
+    ],
+    "k_new:post": [
+     0.6458333333333334,
+     480
+    ],
+    "weathered:post": [
+     0.6402266288951841,
+     353
+    ],
+    "fc_unseen:post": [
+     0.6538461538461539,
+     26
+    ],
+    "fc_seen:post": [
+     0.6206896551724138,
+     58
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k43"
+   },
+   "action_distribution": {
+    "tap": 3880,
+    "soak": 2653,
+    "heat": 5252,
+    "grind": 215
+   },
+   "total_bits": 53384.87099929919,
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 186,
+    "batches": 53,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     74,
+     124,
+     349,
+     424
+    ]
+   }
+  },
+  "305/1013": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k10"
+   ],
+   "certified_units": {
+    "k10": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0881,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2384.6,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0789,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0881
+     },
+     "abstention": {
+      "scope": 151,
+      "ref_resolved": 151,
+      "participation": 98,
+      "share": 0.351
+     }
+    }
+   },
+   "composites": {
+    "unit:k52": {
+     "share": 0.5387,
+     "state": "uncertifiable-untested",
+     "b": 0.1121,
+     "e": 0.193
+    },
+    "unit:k53": {
+     "share": 0.644,
+     "state": "uncertifiable-untested",
+     "b": 0.0413,
+     "e": 0.1162
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.6204013377926422,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     224
+    ],
+    "mid": [
+     0.6125,
+     800
+    ],
+    "weathered:mid": [
+     0.5384615384615384,
+     169
+    ],
+    "pre_ident:mid": [
+     0.0,
+     82
+    ],
+    "post": [
+     0.53515625,
+     1536
+    ],
+    "pre_ident:post": [
+     0.0,
+     244
+    ],
+    "k_new:post": [
+     0.5206073752711496,
+     461
+    ],
+    "fc_unseen:post": [
+     0.6153846153846154,
+     13
+    ],
+    "fc_seen:post": [
+     0.6779661016949152,
+     59
+    ],
+    "weathered:post": [
+     0.48138297872340424,
+     376
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 7,
+    "aprules": 4,
+    "guard": null
+   },
+   "action_distribution": {
+    "tap": 3732,
+    "soak": 2808,
+    "heat": 5145,
+    "grind": 315
+   },
+   "total_bits": 55834.160402175,
+   "stats": {
+    "internal_evals": 6301,
+    "ops_submitted": 192,
+    "batches": 62,
+    "retractions": 1,
+    "decoys_generated": 925,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   }
+  },
+  "305/1019": {
+   "marker": true,
+   "marker_units": [
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified": [
+    "k13",
+    "unit:k55",
+    "unit:k56"
+   ],
+   "certified_units": {
+    "k13": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0804,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3077.7,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0674,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0804
+     },
+     "abstention": {
+      "scope": 163,
+      "ref_resolved": 163,
+      "participation": 110,
+      "share": 0.1104
+     }
+    },
+    "unit:k55": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.1277,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 3262.4,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1679,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1277
+     },
+     "abstention": {
+      "scope": 604,
+      "ref_resolved": 604,
+      "participation": 205,
+      "share": 0.3675
+     }
+    },
+    "unit:k56": {
+     "productions": [
+      "P4",
+      "P5",
+      "P6"
+     ],
+     "b": {
+      "margin": 0.065,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 886.3,
+      "pass": true
+     },
+     "d_state": "d-untested-correct",
+     "e": {
+      "margin_shift": 0.1005,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.065
+     },
+     "abstention": {
+      "scope": 575,
+      "ref_resolved": 575,
+      "participation": 168,
+      "share": 0.4017
+     }
+    }
+   },
+   "composites": {
+    "unit:k55": {
+     "share": 0.3675,
+     "state": "certified",
+     "b": 0.1277,
+     "e": 0.1679
+    },
+    "unit:k56": {
+     "share": 0.4017,
+     "state": "certified",
+     "b": 0.065,
+     "e": 0.1005
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.7913879598662207,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     234
+    ],
+    "mid": [
+     0.755,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     91
+    ],
+    "weathered:mid": [
+     0.6179775280898876,
+     178
+    ],
+    "post": [
+     0.5966996699669967,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     268
+    ],
+    "k_new:post": [
+     0.6255230125523012,
+     478
+    ],
+    "fc_unseen:post": [
+     0.5588235294117647,
+     34
+    ],
+    "weathered:post": [
+     0.6545454545454545,
+     330
+    ],
+    "fc_seen:post": [
+     0.5932203389830508,
+     59
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "guard": "k45"
+   },
+   "action_distribution": {
+    "tap": 3808,
+    "soak": 2762,
+    "heat": 5152,
+    "grind": 278
+   },
+   "total_bits": 52898.82927000505,
+   "stats": {
+    "internal_evals": 6012,
+    "ops_submitted": 198,
+    "batches": 65,
+    "retractions": 0,
+    "decoys_generated": 844,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     49,
+     374,
+     424
+    ]
+   }
+  }
+ },
+ "per_seed_marker": {
+  "301": 2,
+  "302": 2,
+  "303": 2,
+  "304": 2,
+  "305": 2
+ },
+ "endpoint": "PRIMARY-MET",
+ "seeds_passing": 5
+}

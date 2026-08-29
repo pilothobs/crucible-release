@@ -1,0 +1,313 @@
+{
+ "theta_comp": 0.4022,
+ "runs": {
+  "201/23": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k9"
+   ],
+   "composites": {
+    "unit:k47": {
+     "share": 0.6098,
+     "state": "uncertifiable-untested",
+     "b": 0.0744,
+     "e": 0.1661
+    },
+    "unit:k48": {
+     "share": 0.6213,
+     "state": "uncertifiable-untested",
+     "b": 0.0296,
+     "e": 0.1037
+    }
+   }
+  },
+  "201/29": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k18"
+   ],
+   "composites": {
+    "unit:k49": {
+     "share": 0.6203,
+     "state": "uncertifiable-untested",
+     "b": 0.0429,
+     "e": 0.115
+    },
+    "unit:k50": {
+     "share": 0.693,
+     "state": "uncertifiable-untested",
+     "b": 0.031,
+     "e": 0.115
+    }
+   }
+  },
+  "201/31": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k52": {
+     "share": 0.5794,
+     "state": "uncertifiable-untested",
+     "b": 0.1106,
+     "e": 0.1183
+    },
+    "unit:k53": {
+     "share": 0.6436,
+     "state": "uncertifiable-untested",
+     "b": 0.0621,
+     "e": 0.1183
+    }
+   }
+  },
+  "202/23": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k9"
+   ],
+   "composites": {
+    "unit:k47": {
+     "share": 0.6429,
+     "state": "uncertifiable-untested",
+     "b": 0.0688,
+     "e": 0.1683
+    },
+    "unit:k48": {
+     "share": 0.6265,
+     "state": "uncertifiable-untested",
+     "b": 0.025,
+     "e": 0.1058
+    }
+   }
+  },
+  "202/29": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k18"
+   ],
+   "composites": {
+    "unit:k48": {
+     "share": 0.622,
+     "state": "uncertifiable-untested",
+     "b": 0.0423,
+     "e": 0.114
+    },
+    "unit:k49": {
+     "share": 0.6954,
+     "state": "uncertifiable-untested",
+     "b": 0.03,
+     "e": 0.114
+    }
+   }
+  },
+  "202/31": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k52": {
+     "share": 0.5645,
+     "state": "uncertifiable-untested",
+     "b": 0.1081,
+     "e": 0.1873
+    },
+    "unit:k53": {
+     "share": 0.6382,
+     "state": "uncertifiable-untested",
+     "b": 0.0587,
+     "e": 0.1183
+    }
+   }
+  },
+  "203/23": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k9"
+   ],
+   "composites": {
+    "unit:k47": {
+     "share": 0.6463,
+     "state": "uncertifiable-untested",
+     "b": 0.0673,
+     "e": 0.1693
+    },
+    "unit:k48": {
+     "share": 0.6317,
+     "state": "uncertifiable-untested",
+     "b": 0.025,
+     "e": 0.1069
+    }
+   }
+  },
+  "203/29": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k49": {
+     "share": 0.5864,
+     "state": "uncertifiable-untested",
+     "b": 0.0967,
+     "e": 0.1019
+    },
+    "unit:k50": {
+     "share": 0.6329,
+     "state": "uncertifiable-untested",
+     "b": 0.0575,
+     "e": 0.1019
+    }
+   }
+  },
+  "203/31": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k52": {
+     "share": 0.572,
+     "state": "uncertifiable-untested",
+     "b": 0.1142,
+     "e": 0.1194
+    },
+    "unit:k53": {
+     "share": 0.6164,
+     "state": "uncertifiable-untested",
+     "b": 0.065,
+     "e": 0.1194
+    }
+   }
+  },
+  "204/23": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k9"
+   ],
+   "composites": {
+    "unit:k47": {
+     "share": 0.6481,
+     "state": "uncertifiable-untested",
+     "b": 0.0675,
+     "e": 0.1661
+    },
+    "unit:k48": {
+     "share": 0.6231,
+     "state": "uncertifiable-untested",
+     "b": 0.0233,
+     "e": 0.1037
+    }
+   }
+  },
+  "204/29": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k48": {
+     "share": 0.5847,
+     "state": "uncertifiable-untested",
+     "b": 0.0898,
+     "e": 0.1019
+    },
+    "unit:k49": {
+     "share": 0.6586,
+     "state": "uncertifiable-untested",
+     "b": 0.0529,
+     "e": 0.1019
+    }
+   }
+  },
+  "204/31": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k52": {
+     "share": 0.5776,
+     "state": "uncertifiable-untested",
+     "b": 0.1117,
+     "e": 0.1161
+    },
+    "unit:k53": {
+     "share": 0.6418,
+     "state": "uncertifiable-untested",
+     "b": 0.0617,
+     "e": 0.1161
+    }
+   }
+  },
+  "205/23": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [
+    "k9"
+   ],
+   "composites": {
+    "unit:k47": {
+     "share": 0.608,
+     "state": "uncertifiable-untested",
+     "b": 0.0719,
+     "e": 0.1661
+    },
+    "unit:k48": {
+     "share": 0.6231,
+     "state": "uncertifiable-untested",
+     "b": 0.0283,
+     "e": 0.1037
+    }
+   }
+  },
+  "205/29": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k48": {
+     "share": 0.5881,
+     "state": "uncertifiable-untested",
+     "b": 0.0915,
+     "e": 0.1009
+    },
+    "unit:k49": {
+     "share": 0.6618,
+     "state": "uncertifiable-untested",
+     "b": 0.0525,
+     "e": 0.1009
+    }
+   }
+  },
+  "205/31": {
+   "marker": false,
+   "marker_units": [],
+   "certified": [],
+   "composites": {
+    "unit:k52": {
+     "share": 0.5794,
+     "state": "uncertifiable-untested",
+     "b": 0.1077,
+     "e": 0.1172
+    },
+    "unit:k53": {
+     "share": 0.64,
+     "state": "uncertifiable-untested",
+     "b": 0.0596,
+     "e": 0.1172
+    }
+   }
+  }
+ },
+ "per_seed_marker": {
+  "201": 0,
+  "202": 0,
+  "203": 0,
+  "204": 0,
+  "205": 0
+ },
+ "endpoint": "PRIMARY-NOT-MET-UNDER-P004",
+ "seeds_passing": 0
+}

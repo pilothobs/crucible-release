@@ -1,0 +1,1221 @@
+{
+ "thresholds": {
+  "delta_e": 0.05,
+  "theta_ev": 0.15
+ },
+ "runs": {
+  "101/17": {
+   "accuracy": {
+    "pre": [
+     0.6141304347826086,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     95
+    ],
+    "mid": [
+     0.55,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     36
+    ],
+    "weathered:mid": [
+     0.5,
+     180
+    ],
+    "post": [
+     0.4566929133858268,
+     1524
+    ],
+    "k_new:post": [
+     0.4781659388646288,
+     458
+    ],
+    "pre_ident:post": [
+     0.0,
+     63
+    ],
+    "fc_unseen:post": [
+     0.3333333333333333,
+     12
+    ],
+    "fc_seen:post": [
+     0.25,
+     72
+    ],
+    "weathered:post": [
+     0.4948717948717949,
+     390
+    ]
+   },
+   "total_bits": 101074.27298056148,
+   "n_concepts": 253,
+   "violations": 561,
+   "stats": {
+    "internal_evals": 3457,
+    "ops_submitted": 2181,
+    "batches": 420,
+    "retractions": 140,
+    "decoys_generated": 2691,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49,
+     124
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 26,
+    "d-passed": 1,
+    "uncertifiable-untested": 25,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 3,
+   "aprules": 0
+  },
+  "101/18": {
+   "accuracy": {
+    "pre": [
+     0.5288461538461539,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.11764705882352941,
+     85
+    ],
+    "mid": [
+     0.435,
+     800
+    ],
+    "pre_ident:mid": [
+     0.075,
+     40
+    ],
+    "weathered:mid": [
+     0.2011173184357542,
+     179
+    ],
+    "post": [
+     0.43063773833004604,
+     1521
+    ],
+    "k_new:post": [
+     0.31058823529411766,
+     425
+    ],
+    "pre_ident:post": [
+     0.07692307692307693,
+     65
+    ],
+    "weathered:post": [
+     0.13742690058479531,
+     342
+    ],
+    "fc_unseen:post": [
+     0.09090909090909091,
+     22
+    ],
+    "fc_seen:post": [
+     0.38461538461538464,
+     65
+    ]
+   },
+   "total_bits": 84595.99815858103,
+   "n_concepts": 190,
+   "violations": 847,
+   "stats": {
+    "internal_evals": 2837,
+    "ops_submitted": 775,
+    "batches": 150,
+    "retractions": 16,
+    "decoys_generated": 2062,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49,
+     149
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 19,
+    "d-passed": 2,
+    "uncertifiable-untested": 34,
+    "d-untested-correct": 1,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 2,
+    "split": 0
+   },
+   "attrs": 2,
+   "arules": 9,
+   "aprules": 0
+  },
+  "101/19": {
+   "accuracy": {
+    "pre": [
+     0.5058528428093646,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     86
+    ],
+    "mid": [
+     0.5425,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     33
+    ],
+    "weathered:mid": [
+     0.5326633165829145,
+     199
+    ],
+    "post": [
+     0.4834656084656085,
+     1512
+    ],
+    "weathered:post": [
+     0.4918918918918919,
+     370
+    ],
+    "k_new:post": [
+     0.4598698481561822,
+     461
+    ],
+    "pre_ident:post": [
+     0.0,
+     80
+    ],
+    "fc_unseen:post": [
+     0.25,
+     4
+    ],
+    "fc_seen:post": [
+     0.3695652173913043,
+     92
+    ]
+   },
+   "total_bits": 121861.13355501395,
+   "n_concepts": 174,
+   "violations": 897,
+   "stats": {
+    "internal_evals": 3265,
+    "ops_submitted": 3518,
+    "batches": 537,
+    "retractions": 254,
+    "decoys_generated": 2141,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     49
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 24,
+    "d-passed": 3,
+    "uncertifiable-untested": 34,
+    "out-of-scope": 2,
+    "d-untested-correct": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 2,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 6,
+   "aprules": 0
+  },
+  "102/17": {
+   "accuracy": {
+    "pre": [
+     0.592809364548495,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     95
+    ],
+    "mid": [
+     0.62875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     36
+    ],
+    "weathered:mid": [
+     0.5888888888888889,
+     180
+    ],
+    "post": [
+     0.550524934383202,
+     1524
+    ],
+    "k_new:post": [
+     0.46943231441048033,
+     458
+    ],
+    "pre_ident:post": [
+     0.0,
+     63
+    ],
+    "fc_unseen:post": [
+     0.0,
+     9
+    ],
+    "fc_seen:post": [
+     0.32,
+     75
+    ],
+    "weathered:post": [
+     0.5205128205128206,
+     390
+    ]
+   },
+   "total_bits": 102896.94898008261,
+   "n_concepts": 211,
+   "violations": 583,
+   "stats": {
+    "internal_evals": 2829,
+    "ops_submitted": 2470,
+    "batches": 444,
+    "retractions": 181,
+    "decoys_generated": 2365,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 28,
+    "d-passed": 1,
+    "d-untested-correct": 2,
+    "uncertifiable-untested": 18,
+    "out-of-scope": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 1,
+   "arules": 1,
+   "aprules": 0
+  },
+  "102/18": {
+   "accuracy": {
+    "pre": [
+     0.6015886287625418,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     85
+    ],
+    "mid": [
+     0.58875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     40
+    ],
+    "weathered:mid": [
+     0.5027932960893855,
+     179
+    ],
+    "post": [
+     0.5285996055226825,
+     1521
+    ],
+    "k_new:post": [
+     0.4682352941176471,
+     425
+    ],
+    "pre_ident:post": [
+     0.07692307692307693,
+     65
+    ],
+    "weathered:post": [
+     0.45321637426900585,
+     342
+    ],
+    "fc_unseen:post": [
+     0.07692307692307693,
+     13
+    ],
+    "fc_seen:post": [
+     0.13513513513513514,
+     74
+    ]
+   },
+   "total_bits": 101742.51482026608,
+   "n_concepts": 219,
+   "violations": 560,
+   "stats": {
+    "internal_evals": 3202,
+    "ops_submitted": 2365,
+    "batches": 361,
+    "retractions": 118,
+    "decoys_generated": 2415,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     449
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 27,
+    "d-passed": 2,
+    "uncertifiable-untested": 35,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 1,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 8,
+   "aprules": 0
+  },
+  "102/19": {
+   "accuracy": {
+    "pre": [
+     0.4644648829431438,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     86
+    ],
+    "mid": [
+     0.4425,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     33
+    ],
+    "weathered:mid": [
+     0.38190954773869346,
+     199
+    ],
+    "post": [
+     0.4636243386243386,
+     1512
+    ],
+    "weathered:post": [
+     0.44594594594594594,
+     370
+    ],
+    "k_new:post": [
+     0.3600867678958785,
+     461
+    ],
+    "pre_ident:post": [
+     0.0,
+     80
+    ],
+    "fc_unseen:post": [
+     0.0,
+     2
+    ],
+    "fc_seen:post": [
+     0.24468085106382978,
+     94
+    ]
+   },
+   "total_bits": 151070.88640760357,
+   "n_concepts": 209,
+   "violations": 985,
+   "stats": {
+    "internal_evals": 2627,
+    "ops_submitted": 5334,
+    "batches": 736,
+    "retractions": 384,
+    "decoys_generated": 2029,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     399
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 27,
+    "d-passed": 2,
+    "uncertifiable-untested": 33,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 2
+   },
+   "attrs": 2,
+   "arules": 8,
+   "aprules": 0
+  },
+  "103/17": {
+   "accuracy": {
+    "pre": [
+     0.5087792642140468,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.12631578947368421,
+     95
+    ],
+    "mid": [
+     0.5475,
+     800
+    ],
+    "pre_ident:mid": [
+     0.05555555555555555,
+     36
+    ],
+    "weathered:mid": [
+     0.5944444444444444,
+     180
+    ],
+    "post": [
+     0.5013123359580053,
+     1524
+    ],
+    "k_new:post": [
+     0.37336244541484714,
+     458
+    ],
+    "pre_ident:post": [
+     0.06349206349206349,
+     63
+    ],
+    "fc_unseen:post": [
+     0.05555555555555555,
+     18
+    ],
+    "weathered:post": [
+     0.5051282051282051,
+     390
+    ],
+    "fc_seen:post": [
+     0.21212121212121213,
+     66
+    ]
+   },
+   "total_bits": 109844.55107245408,
+   "n_concepts": 170,
+   "violations": 1218,
+   "stats": {
+    "internal_evals": 3139,
+    "ops_submitted": 2295,
+    "batches": 366,
+    "retractions": 136,
+    "decoys_generated": 1814,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     49
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-passed": 1,
+    "d-failed": 28,
+    "uncertifiable-untested": 21,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 8,
+   "aprules": 0
+  },
+  "103/18": {
+   "accuracy": {
+    "pre": [
+     0.5886287625418061,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     85
+    ],
+    "mid": [
+     0.58625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     40
+    ],
+    "weathered:mid": [
+     0.5586592178770949,
+     179
+    ],
+    "post": [
+     0.5358316896778436,
+     1521
+    ],
+    "k_new:post": [
+     0.45647058823529413,
+     425
+    ],
+    "pre_ident:post": [
+     0.0,
+     65
+    ],
+    "weathered:post": [
+     0.47368421052631576,
+     342
+    ],
+    "fc_unseen:post": [
+     0.25,
+     16
+    ],
+    "fc_seen:post": [
+     0.38028169014084506,
+     71
+    ]
+   },
+   "total_bits": 105895.75537394846,
+   "n_concepts": 155,
+   "violations": 562,
+   "stats": {
+    "internal_evals": 2873,
+    "ops_submitted": 2975,
+    "batches": 432,
+    "retractions": 200,
+    "decoys_generated": 1820,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-passed": 8,
+    "d-failed": 23,
+    "d-untested-correct": 3,
+    "uncertifiable-untested": 23,
+    "out-of-scope": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 6,
+    "split": 2
+   },
+   "attrs": 1,
+   "arules": 2,
+   "aprules": 0
+  },
+  "103/19": {
+   "accuracy": {
+    "pre": [
+     0.5367892976588629,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     86
+    ],
+    "mid": [
+     0.4825,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     33
+    ],
+    "weathered:mid": [
+     0.4020100502512563,
+     199
+    ],
+    "post": [
+     0.4226190476190476,
+     1512
+    ],
+    "weathered:post": [
+     0.24594594594594596,
+     370
+    ],
+    "k_new:post": [
+     0.3470715835140998,
+     461
+    ],
+    "pre_ident:post": [
+     0.0,
+     80
+    ],
+    "fc_unseen:post": [
+     0.3333333333333333,
+     6
+    ],
+    "fc_seen:post": [
+     0.28888888888888886,
+     90
+    ]
+   },
+   "total_bits": 103151.73796620735,
+   "n_concepts": 194,
+   "violations": 778,
+   "stats": {
+    "internal_evals": 2540,
+    "ops_submitted": 2210,
+    "batches": 382,
+    "retractions": 157,
+    "decoys_generated": 2278,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 23,
+    "d-passed": 1,
+    "uncertifiable-untested": 15,
+    "out-of-scope": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 1,
+   "arules": 5,
+   "aprules": 0
+  },
+  "104/17": {
+   "accuracy": {
+    "pre": [
+     0.5593645484949833,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     95
+    ],
+    "mid": [
+     0.545,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     36
+    ],
+    "weathered:mid": [
+     0.4111111111111111,
+     180
+    ],
+    "post": [
+     0.4881889763779528,
+     1524
+    ],
+    "k_new:post": [
+     0.462882096069869,
+     458
+    ],
+    "pre_ident:post": [
+     0.0,
+     63
+    ],
+    "fc_unseen:post": [
+     0.23529411764705882,
+     17
+    ],
+    "fc_seen:post": [
+     0.29850746268656714,
+     67
+    ],
+    "weathered:post": [
+     0.4641025641025641,
+     390
+    ]
+   },
+   "total_bits": 102068.27485280522,
+   "n_concepts": 210,
+   "violations": 587,
+   "stats": {
+    "internal_evals": 2588,
+    "ops_submitted": 2274,
+    "batches": 407,
+    "retractions": 140,
+    "decoys_generated": 2300,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 21,
+    "d-untested-correct": 3,
+    "d-passed": 1,
+    "uncertifiable-untested": 23,
+    "out-of-scope": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 1,
+    "split": 0
+   },
+   "attrs": 1,
+   "arules": 3,
+   "aprules": 0
+  },
+  "104/18": {
+   "accuracy": {
+    "pre": [
+     0.568561872909699,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.10588235294117647,
+     85
+    ],
+    "mid": [
+     0.525,
+     800
+    ],
+    "pre_ident:mid": [
+     0.075,
+     40
+    ],
+    "weathered:mid": [
+     0.3463687150837989,
+     179
+    ],
+    "post": [
+     0.4878369493754109,
+     1521
+    ],
+    "k_new:post": [
+     0.31529411764705884,
+     425
+    ],
+    "pre_ident:post": [
+     0.07692307692307693,
+     65
+    ],
+    "weathered:post": [
+     0.3567251461988304,
+     342
+    ],
+    "fc_unseen:post": [
+     0.3333333333333333,
+     12
+    ],
+    "fc_seen:post": [
+     0.24,
+     75
+    ]
+   },
+   "total_bits": 105498.85554044817,
+   "n_concepts": 220,
+   "violations": 530,
+   "stats": {
+    "internal_evals": 3270,
+    "ops_submitted": 2608,
+    "batches": 347,
+    "retractions": 132,
+    "decoys_generated": 2267,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49,
+     74,
+     99,
+     374,
+     424
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 15,
+    "d-passed": 2,
+    "out-of-scope": 4,
+    "uncertifiable-untested": 36
+   },
+   "d_passed_branches": {
+    "body_edit": 1,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 7,
+   "aprules": 4
+  },
+  "104/19": {
+   "accuracy": {
+    "pre": [
+     0.45735785953177255,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     86
+    ],
+    "mid": [
+     0.4775,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     33
+    ],
+    "weathered:mid": [
+     0.4020100502512563,
+     199
+    ],
+    "post": [
+     0.455026455026455,
+     1512
+    ],
+    "weathered:post": [
+     0.4864864864864865,
+     370
+    ],
+    "k_new:post": [
+     0.34490238611713664,
+     461
+    ],
+    "pre_ident:post": [
+     0.0,
+     80
+    ],
+    "fc_unseen:post": [
+     0.23076923076923078,
+     13
+    ],
+    "fc_seen:post": [
+     0.10843373493975904,
+     83
+    ]
+   },
+   "total_bits": 111379.83969712866,
+   "n_concepts": 201,
+   "violations": 1039,
+   "stats": {
+    "internal_evals": 2381,
+    "ops_submitted": 2314,
+    "batches": 405,
+    "retractions": 180,
+    "decoys_generated": 1985,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     49,
+     324
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 20,
+    "uncertifiable-untested": 17,
+    "out-of-scope": 1,
+    "d-passed": 1
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 1,
+   "arules": 7,
+   "aprules": 0
+  },
+  "105/17": {
+   "accuracy": {
+    "pre": [
+     0.612876254180602,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     95
+    ],
+    "mid": [
+     0.65875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     36
+    ],
+    "weathered:mid": [
+     0.6,
+     180
+    ],
+    "post": [
+     0.5557742782152231,
+     1524
+    ],
+    "k_new:post": [
+     0.4606986899563319,
+     458
+    ],
+    "pre_ident:post": [
+     0.0,
+     63
+    ],
+    "fc_unseen:post": [
+     0.0,
+     12
+    ],
+    "weathered:post": [
+     0.5461538461538461,
+     390
+    ],
+    "fc_seen:post": [
+     0.18055555555555555,
+     72
+    ]
+   },
+   "total_bits": 101591.58749682255,
+   "n_concepts": 232,
+   "violations": 533,
+   "stats": {
+    "internal_evals": 2699,
+    "ops_submitted": 2476,
+    "batches": 429,
+    "retractions": 179,
+    "decoys_generated": 2252,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     524
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 31,
+    "d-passed": 1,
+    "out-of-scope": 3,
+    "uncertifiable-untested": 25
+   },
+   "d_passed_branches": {
+    "body_edit": 1,
+    "split": 0
+   },
+   "attrs": 2,
+   "arules": 7,
+   "aprules": 0
+  },
+  "105/18": {
+   "accuracy": {
+    "pre": [
+     0.5150501672240803,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.12941176470588237,
+     85
+    ],
+    "mid": [
+     0.41875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.075,
+     40
+    ],
+    "weathered:mid": [
+     0.12849162011173185,
+     179
+    ],
+    "post": [
+     0.4174884944115713,
+     1521
+    ],
+    "k_new:post": [
+     0.29411764705882354,
+     425
+    ],
+    "pre_ident:post": [
+     0.07692307692307693,
+     65
+    ],
+    "weathered:post": [
+     0.1608187134502924,
+     342
+    ],
+    "fc_unseen:post": [
+     0.0,
+     17
+    ],
+    "fc_seen:post": [
+     0.0,
+     70
+    ]
+   },
+   "total_bits": 88276.76794901582,
+   "n_concepts": 214,
+   "violations": 939,
+   "stats": {
+    "internal_evals": 2518,
+    "ops_submitted": 923,
+    "batches": 188,
+    "retractions": 23,
+    "decoys_generated": 2300,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     99,
+     124
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 18,
+    "uncertifiable-untested": 31,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 0
+   },
+   "attrs": 2,
+   "arules": 10,
+   "aprules": 0
+  },
+  "105/19": {
+   "accuracy": {
+    "pre": [
+     0.5430602006688964,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     86
+    ],
+    "mid": [
+     0.5325,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     33
+    ],
+    "weathered:mid": [
+     0.47738693467336685,
+     199
+    ],
+    "post": [
+     0.4708994708994709,
+     1512
+    ],
+    "weathered:post": [
+     0.4648648648648649,
+     370
+    ],
+    "k_new:post": [
+     0.4750542299349241,
+     461
+    ],
+    "pre_ident:post": [
+     0.0,
+     80
+    ],
+    "fc_unseen:post": [
+     0.07142857142857142,
+     28
+    ],
+    "fc_seen:post": [
+     0.3088235294117647,
+     68
+    ]
+   },
+   "total_bits": 107640.08700382547,
+   "n_concepts": 199,
+   "violations": 760,
+   "stats": {
+    "internal_evals": 2373,
+    "ops_submitted": 2544,
+    "batches": 455,
+    "retractions": 181,
+    "decoys_generated": 2051,
+    "decoys_adopted": 0,
+    "compress_passes": 25,
+    "adoption_eps": [
+     24,
+     399
+    ]
+   },
+   "certified": [],
+   "marker_fired": false,
+   "marker_units": [],
+   "d_states": {
+    "d-failed": 32,
+    "d-passed": 1,
+    "uncertifiable-untested": 19,
+    "out-of-scope": 2
+   },
+   "d_passed_branches": {
+    "body_edit": 0,
+    "split": 1
+   },
+   "attrs": 2,
+   "arules": 6,
+   "aprules": 0
+  }
+ },
+ "fixture_ok": true,
+ "endpoints": {
+  "marker_seeds_of_5": 0,
+  "any_cert_seeds_of_5": 0,
+  "d_body_edit_seeds_of_5": 2,
+  "d_split_seeds_of_5": 4,
+  "decoys_adopted_total": 0,
+  "decoys_generated_total": 32770
+ }
+}

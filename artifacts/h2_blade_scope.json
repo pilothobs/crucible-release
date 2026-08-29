@@ -1,0 +1,224 @@
+{
+ "theta_ev": 0.15,
+ "scoping": "attributed-classes (sensitivity; NOT the frozen P003 scoping)",
+ "rows": [
+  {
+   "run": "201/23",
+   "marker": true,
+   "unit": "k47",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 692,
+   "credit": 448,
+   "share": 0.3526,
+   "clears_theta": false
+  },
+  {
+   "run": "202/23",
+   "marker": true,
+   "unit": "k47",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 692,
+   "credit": 423,
+   "share": 0.3887,
+   "clears_theta": false
+  },
+  {
+   "run": "203/23",
+   "marker": true,
+   "unit": "k47",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 692,
+   "credit": 420,
+   "share": 0.3931,
+   "clears_theta": false
+  },
+  {
+   "run": "204/23",
+   "marker": true,
+   "unit": "k47",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 692,
+   "credit": 425,
+   "share": 0.3858,
+   "clears_theta": false
+  },
+  {
+   "run": "205/23",
+   "marker": true,
+   "unit": "k47",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 692,
+   "credit": 447,
+   "share": 0.354,
+   "clears_theta": false
+  },
+  {
+   "run": "201/29",
+   "marker": false
+  },
+  {
+   "run": "202/29",
+   "marker": false
+  },
+  {
+   "run": "203/29",
+   "marker": true,
+   "unit": "k49",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 751,
+   "credit": 470,
+   "share": 0.3742,
+   "clears_theta": false
+  },
+  {
+   "run": "203/29",
+   "marker": true,
+   "unit": "k50",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 751,
+   "credit": 470,
+   "share": 0.3742,
+   "clears_theta": false
+  },
+  {
+   "run": "204/29",
+   "marker": true,
+   "unit": "k48",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 749,
+   "credit": 454,
+   "share": 0.3939,
+   "clears_theta": false
+  },
+  {
+   "run": "204/29",
+   "marker": true,
+   "unit": "k49",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 749,
+   "credit": 454,
+   "share": 0.3939,
+   "clears_theta": false
+  },
+  {
+   "run": "205/29",
+   "marker": true,
+   "unit": "k48",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 749,
+   "credit": 452,
+   "share": 0.3965,
+   "clears_theta": false
+  },
+  {
+   "run": "205/29",
+   "marker": true,
+   "unit": "k49",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 749,
+   "credit": 452,
+   "share": 0.3965,
+   "clears_theta": false
+  },
+  {
+   "run": "201/31",
+   "marker": true,
+   "unit": "k52",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 422,
+   "share": 0.373,
+   "clears_theta": false
+  },
+  {
+   "run": "201/31",
+   "marker": true,
+   "unit": "k53",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 422,
+   "share": 0.373,
+   "clears_theta": false
+  },
+  {
+   "run": "202/31",
+   "marker": true,
+   "unit": "k52",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 432,
+   "share": 0.3581,
+   "clears_theta": false
+  },
+  {
+   "run": "202/31",
+   "marker": true,
+   "unit": "k53",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 432,
+   "share": 0.3581,
+   "clears_theta": false
+  },
+  {
+   "run": "203/31",
+   "marker": true,
+   "unit": "k52",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 436,
+   "share": 0.3522,
+   "clears_theta": false
+  },
+  {
+   "run": "203/31",
+   "marker": true,
+   "unit": "k53",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 436,
+   "share": 0.3522,
+   "clears_theta": false
+  },
+  {
+   "run": "204/31",
+   "marker": true,
+   "unit": "k52",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 423,
+   "share": 0.3715,
+   "clears_theta": false
+  },
+  {
+   "run": "204/31",
+   "marker": true,
+   "unit": "k53",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 423,
+   "share": 0.3715,
+   "clears_theta": false
+  },
+  {
+   "run": "205/31",
+   "marker": true,
+   "unit": "k52",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 424,
+   "share": 0.37,
+   "clears_theta": false
+  },
+  {
+   "run": "205/31",
+   "marker": true,
+   "unit": "k53",
+   "n_attributed_classes": 6,
+   "in_scope_ref": 673,
+   "credit": 424,
+   "share": 0.37,
+   "clears_theta": false
+  }
+ ]
+}

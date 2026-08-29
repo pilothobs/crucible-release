@@ -1,0 +1,25 @@
+{
+ "stream": 1021,
+ "a10": {
+  "pass": true
+ },
+ "oracle_full_marker": true,
+ "oracle_ident_marker": true,
+ "ident_composite_shares": {
+  "unit:k1": 0.1727,
+  "unit:k2": 0.1897,
+  "unit:k3": 0.1757
+ },
+ "controls": {
+  "null_empty": 0,
+  "null_default": 0,
+  "static": 0,
+  "ambient_corr": 0,
+  "lookup": 0,
+  "cluster": 0,
+  "cluster_wild": 0,
+  "cluster_greedy": 0
+ },
+ "cluster_regression_form": true,
+ "pass": true
+}

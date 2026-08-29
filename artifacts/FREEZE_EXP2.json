@@ -1,0 +1,38 @@
+{
+ "experiment": "WO-EID-L3-5 / EXP2 Candidate E.2",
+ "frozen": "2026-08-30",
+ "preregistration": "l3_5/PREREGISTRATION_L35_EXP2.md (with Amendment 1)",
+ "commit_at_freeze": "6cee1ef7783a006608eb061be8c38354dfa8e219",
+ "training_seeds": [
+  301,
+  302,
+  303,
+  304,
+  305
+ ],
+ "verdict_streams": [
+  1009,
+  1013,
+  1019
+ ],
+ "dev_streams": [
+  997,
+  998,
+  999
+ ],
+ "reference_engine": "OracleFull(seed=90001+stream)",
+ "thresholds": {
+  "delta_e": 0.05,
+  "theta_ev": 0.15,
+  "theta_comp": 0.4022
+ },
+ "guard_support": 3,
+ "digests_sha256": {
+  "l3_5/candidate_e2.py": "a96609c96f7ea90d624ff9ac0d79084036bcf6ab4664ff5bbcc0580827705367",
+  "l3_5/candidate_e.py": "9783c9b974bb18ad4e0fcf5df4b2d2390529a993a166ce1d8e452d750b61031c",
+  "l3_5/PREREGISTRATION_L35_EXP2.md": "34e42a0fcf8357597c784e4994a452c43e5d832e6b9742da390a86087294d4cf",
+  "l3_2/certify_p004.py": "0e0e271dd4c6d028328e8770eb897f9ed9ad21b4b5e470878124e8fca5302e07",
+  "l3_2/certify_p003.py": "969c66b8f8597a04821444bfec4c31eaa898500c7ffc076243606ad0d1c5291c",
+  "l3_3/proposer.py": "da0566f2fdcc61d196a8d2e62202d17ae50d05c6f25ac76f99da31bf0869a7b3"
+ }
+}

@@ -1,0 +1,1904 @@
+{
+ "freeze_digest": "9783c9b974bb18ad4e0fcf5df4b2d2390529a993a166ce1d8e452d750b61031c",
+ "runs": {
+  "201/23": {
+   "marker": true,
+   "certified": [
+    "k9",
+    "k47"
+   ],
+   "certified_units": {
+    "k9": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0619,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 383.2,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0614,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0619
+     },
+     "abstention": {
+      "scope": 172,
+      "ref_resolved": 172,
+      "participation": 97,
+      "share": 0.436
+     }
+    },
+    "k47": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0744,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2500.6,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1661,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0744
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5183946488294314,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0028011204481792717,
+     357
+    ],
+    "mid": [
+     0.54875,
+     800
+    ],
+    "weathered:mid": [
+     0.463768115942029,
+     207
+    ],
+    "pre_ident:mid": [
+     0.0,
+     111
+    ],
+    "post": [
+     0.5568783068783069,
+     1512
+    ],
+    "fc_unseen:post": [
+     0.6666666666666666,
+     39
+    ],
+    "pre_ident:post": [
+     0.0,
+     229
+    ],
+    "k_new:post": [
+     0.41935483870967744,
+     403
+    ],
+    "weathered:post": [
+     0.5287009063444109,
+     331
+    ],
+    "fc_seen:post": [
+     0.5964912280701754,
+     57
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 27,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5277,
+    "ops_submitted": 198,
+    "batches": 62,
+    "retractions": 0,
+    "decoys_generated": 733,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     99,
+     149,
+     324,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "201/29": {
+   "marker": false,
+   "certified": [
+    "k18"
+   ],
+   "certified_units": {
+    "k18": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.064,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 261.9,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0868,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.064
+     },
+     "abstention": {
+      "scope": 165,
+      "ref_resolved": 165,
+      "participation": 101,
+      "share": 0.3879
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5288461538461539,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     370
+    ],
+    "mid": [
+     0.51625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     124
+    ],
+    "weathered:mid": [
+     0.3875598086124402,
+     209
+    ],
+    "post": [
+     0.5313531353135313,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     222
+    ],
+    "fc_unseen:post": [
+     0.6190476190476191,
+     21
+    ],
+    "k_new:post": [
+     0.49780701754385964,
+     456
+    ],
+    "weathered:post": [
+     0.42151162790697677,
+     344
+    ],
+    "fc_seen:post": [
+     0.6388888888888888,
+     72
+    ]
+   },
+   "counts": {
+    "classes": 8,
+    "attrs": 2,
+    "arules": 5,
+    "aprules": 4,
+    "rules": 33,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6491,
+    "ops_submitted": 189,
+    "batches": 64,
+    "retractions": 1,
+    "decoys_generated": 907,
+    "decoys_adopted": 0,
+    "compress_passes": 24,
+    "adoption_eps": [
+     49
+    ]
+   },
+   "mdl_total": null
+  },
+  "201/31": {
+   "marker": true,
+   "certified": [
+    "k52",
+    "k53"
+   ],
+   "certified_units": {
+    "k52": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.1106,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2686.8,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1183,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1106
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k53": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0621,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 798.7,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1183,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0621
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5346989966555183,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     357
+    ],
+    "mid": [
+     0.53625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     130
+    ],
+    "weathered:mid": [
+     0.42346938775510207,
+     196
+    ],
+    "post": [
+     0.5306930693069307,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     242
+    ],
+    "weathered:post": [
+     0.4676470588235294,
+     340
+    ],
+    "fc_unseen:post": [
+     0.6451612903225806,
+     31
+    ],
+    "k_new:post": [
+     0.4577114427860697,
+     402
+    ],
+    "fc_seen:post": [
+     0.6935483870967742,
+     62
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 22,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6004,
+    "ops_submitted": 195,
+    "batches": 62,
+    "retractions": 0,
+    "decoys_generated": 836,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     74,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "202/23": {
+   "marker": true,
+   "certified": [
+    "k9",
+    "k47"
+   ],
+   "certified_units": {
+    "k9": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0596,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 266.2,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0624,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0596
+     },
+     "abstention": {
+      "scope": 172,
+      "ref_resolved": 172,
+      "participation": 90,
+      "share": 0.4767
+     }
+    },
+    "k47": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0688,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2618.2,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1683,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0688
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.520066889632107,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0028011204481792717,
+     357
+    ],
+    "mid": [
+     0.5075,
+     800
+    ],
+    "weathered:mid": [
+     0.3285024154589372,
+     207
+    ],
+    "pre_ident:mid": [
+     0.0,
+     111
+    ],
+    "post": [
+     0.5575396825396826,
+     1512
+    ],
+    "fc_unseen:post": [
+     0.6666666666666666,
+     39
+    ],
+    "pre_ident:post": [
+     0.0,
+     229
+    ],
+    "k_new:post": [
+     0.42431761786600497,
+     403
+    ],
+    "weathered:post": [
+     0.5317220543806647,
+     331
+    ],
+    "fc_seen:post": [
+     0.5964912280701754,
+     57
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 27,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5270,
+    "ops_submitted": 201,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 726,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     99,
+     149,
+     399,
+     449
+    ]
+   },
+   "mdl_total": null
+  },
+  "202/29": {
+   "marker": false,
+   "certified": [
+    "k18"
+   ],
+   "certified_units": {
+    "k18": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.065,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 355.3,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0868,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.065
+     },
+     "abstention": {
+      "scope": 164,
+      "ref_resolved": 164,
+      "participation": 100,
+      "share": 0.3902
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5275919732441472,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     370
+    ],
+    "mid": [
+     0.50875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     124
+    ],
+    "weathered:mid": [
+     0.36363636363636365,
+     209
+    ],
+    "post": [
+     0.526072607260726,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     222
+    ],
+    "fc_unseen:post": [
+     0.625,
+     24
+    ],
+    "k_new:post": [
+     0.49780701754385964,
+     456
+    ],
+    "weathered:post": [
+     0.3953488372093023,
+     344
+    ],
+    "fc_seen:post": [
+     0.6231884057971014,
+     69
+    ]
+   },
+   "counts": {
+    "classes": 7,
+    "attrs": 2,
+    "arules": 5,
+    "aprules": 4,
+    "rules": 28,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6490,
+    "ops_submitted": 179,
+    "batches": 60,
+    "retractions": 1,
+    "decoys_generated": 906,
+    "decoys_adopted": 0,
+    "compress_passes": 24,
+    "adoption_eps": [
+     49
+    ]
+   },
+   "mdl_total": null
+  },
+  "202/31": {
+   "marker": true,
+   "certified": [
+    "k52",
+    "k53"
+   ],
+   "certified_units": {
+    "k52": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.1081,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2717.9,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1873,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1081
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k53": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0587,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 771.1,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1183,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0587
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5342809364548495,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     357
+    ],
+    "mid": [
+     0.54,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     130
+    ],
+    "weathered:mid": [
+     0.45918367346938777,
+     196
+    ],
+    "post": [
+     0.5254125412541254,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     242
+    ],
+    "weathered:post": [
+     0.4676470588235294,
+     340
+    ],
+    "fc_unseen:post": [
+     0.6923076923076923,
+     13
+    ],
+    "k_new:post": [
+     0.4651741293532338,
+     402
+    ],
+    "fc_seen:post": [
+     0.675,
+     80
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 22,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5759,
+    "ops_submitted": 195,
+    "batches": 64,
+    "retractions": 0,
+    "decoys_generated": 799,
+    "decoys_adopted": 0,
+    "compress_passes": 22,
+    "adoption_eps": [
+     74,
+     324,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "203/23": {
+   "marker": true,
+   "certified": [
+    "k9",
+    "k47"
+   ],
+   "certified_units": {
+    "k9": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.06,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 273.1,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0635,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.06
+     },
+     "abstention": {
+      "scope": 172,
+      "ref_resolved": 172,
+      "participation": 90,
+      "share": 0.4767
+     }
+    },
+    "k47": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0673,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2507.5,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1693,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0673
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.520066889632107,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0028011204481792717,
+     357
+    ],
+    "mid": [
+     0.51,
+     800
+    ],
+    "weathered:mid": [
+     0.3333333333333333,
+     207
+    ],
+    "pre_ident:mid": [
+     0.0,
+     111
+    ],
+    "post": [
+     0.5515873015873016,
+     1512
+    ],
+    "fc_unseen:post": [
+     0.6666666666666666,
+     39
+    ],
+    "pre_ident:post": [
+     0.0,
+     229
+    ],
+    "k_new:post": [
+     0.4143920595533499,
+     403
+    ],
+    "weathered:post": [
+     0.5287009063444109,
+     331
+    ],
+    "fc_seen:post": [
+     0.5964912280701754,
+     57
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 27,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5270,
+    "ops_submitted": 201,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 726,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     99,
+     149,
+     399,
+     449
+    ]
+   },
+   "mdl_total": null
+  },
+  "203/29": {
+   "marker": true,
+   "certified": [
+    "k49",
+    "k50"
+   ],
+   "certified_units": {
+    "k49": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0967,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2715.0,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1019,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0967
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k50": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0575,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 867.9,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1019,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0575
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5284280936454849,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     370
+    ],
+    "mid": [
+     0.50625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     124
+    ],
+    "weathered:mid": [
+     0.3588516746411483,
+     209
+    ],
+    "post": [
+     0.5419141914191419,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     222
+    ],
+    "fc_unseen:post": [
+     0.6470588235294118,
+     34
+    ],
+    "k_new:post": [
+     0.5197368421052632,
+     456
+    ],
+    "weathered:post": [
+     0.5116279069767442,
+     344
+    ],
+    "fc_seen:post": [
+     0.6101694915254238,
+     59
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 20,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6238,
+    "ops_submitted": 191,
+    "batches": 61,
+    "retractions": 0,
+    "decoys_generated": 862,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     49,
+     499
+    ]
+   },
+   "mdl_total": null
+  },
+  "203/31": {
+   "marker": true,
+   "certified": [
+    "k52",
+    "k53"
+   ],
+   "certified_units": {
+    "k52": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.1142,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2676.4,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1194,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1142
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k53": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.065,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 781.4,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1194,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.065
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5363712374581939,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     357
+    ],
+    "mid": [
+     0.54875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     130
+    ],
+    "weathered:mid": [
+     0.46938775510204084,
+     196
+    ],
+    "post": [
+     0.533993399339934,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     242
+    ],
+    "weathered:post": [
+     0.47941176470588237,
+     340
+    ],
+    "fc_unseen:post": [
+     0.6842105263157895,
+     19
+    ],
+    "k_new:post": [
+     0.4701492537313433,
+     402
+    ],
+    "fc_seen:post": [
+     0.6756756756756757,
+     74
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 22,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6004,
+    "ops_submitted": 198,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 836,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     74,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "204/23": {
+   "marker": true,
+   "certified": [
+    "k9",
+    "k47"
+   ],
+   "certified_units": {
+    "k9": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0594,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 356.1,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0603,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0594
+     },
+     "abstention": {
+      "scope": 172,
+      "ref_resolved": 172,
+      "participation": 88,
+      "share": 0.4884
+     }
+    },
+    "k47": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0675,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2538.6,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1661,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0675
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5179765886287625,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0028011204481792717,
+     357
+    ],
+    "mid": [
+     0.51,
+     800
+    ],
+    "weathered:mid": [
+     0.34299516908212563,
+     207
+    ],
+    "pre_ident:mid": [
+     0.0,
+     111
+    ],
+    "post": [
+     0.5555555555555556,
+     1512
+    ],
+    "fc_unseen:post": [
+     0.6666666666666666,
+     39
+    ],
+    "pre_ident:post": [
+     0.0,
+     229
+    ],
+    "k_new:post": [
+     0.42431761786600497,
+     403
+    ],
+    "weathered:post": [
+     0.5317220543806647,
+     331
+    ],
+    "fc_seen:post": [
+     0.5964912280701754,
+     57
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 27,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5270,
+    "ops_submitted": 201,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 726,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     99,
+     149,
+     399,
+     449
+    ]
+   },
+   "mdl_total": null
+  },
+  "204/29": {
+   "marker": true,
+   "certified": [
+    "k48",
+    "k49"
+   ],
+   "certified_units": {
+    "k48": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0898,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2683.9,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1019,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0898
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k49": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0529,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 878.3,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1019,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0529
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5263377926421404,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     370
+    ],
+    "mid": [
+     0.49125,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     124
+    ],
+    "weathered:mid": [
+     0.3014354066985646,
+     209
+    ],
+    "post": [
+     0.5386138613861386,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     222
+    ],
+    "fc_unseen:post": [
+     0.6578947368421053,
+     38
+    ],
+    "k_new:post": [
+     0.5219298245614035,
+     456
+    ],
+    "weathered:post": [
+     0.4941860465116279,
+     344
+    ],
+    "fc_seen:post": [
+     0.6,
+     55
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 20,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6233,
+    "ops_submitted": 186,
+    "batches": 59,
+    "retractions": 0,
+    "decoys_generated": 857,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     49,
+     499
+    ]
+   },
+   "mdl_total": null
+  },
+  "204/31": {
+   "marker": true,
+   "certified": [
+    "k52",
+    "k53"
+   ],
+   "certified_units": {
+    "k52": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.1117,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2735.2,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1161,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1117
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k53": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0617,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 778.0,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1161,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0617
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5346989966555183,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     357
+    ],
+    "mid": [
+     0.535,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     130
+    ],
+    "weathered:mid": [
+     0.41836734693877553,
+     196
+    ],
+    "post": [
+     0.5333333333333333,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     242
+    ],
+    "weathered:post": [
+     0.4647058823529412,
+     340
+    ],
+    "fc_unseen:post": [
+     0.6428571428571429,
+     28
+    ],
+    "k_new:post": [
+     0.4651741293532338,
+     402
+    ],
+    "fc_seen:post": [
+     0.7076923076923077,
+     65
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 22,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6004,
+    "ops_submitted": 195,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 836,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     74,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "205/23": {
+   "marker": true,
+   "certified": [
+    "k9",
+    "k47"
+   ],
+   "certified_units": {
+    "k9": {
+     "productions": [
+      "P1"
+     ],
+     "b": {
+      "margin": 0.0608,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 311.1,
+      "pass": true
+     },
+     "d_state": "d-passed",
+     "e": {
+      "margin_shift": 0.0603,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0608
+     },
+     "abstention": {
+      "scope": 172,
+      "ref_resolved": 172,
+      "participation": 96,
+      "share": 0.4419
+     }
+    },
+    "k47": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0719,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2590.5,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1661,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0719
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5175585284280937,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0028011204481792717,
+     357
+    ],
+    "mid": [
+     0.54375,
+     800
+    ],
+    "weathered:mid": [
+     0.45893719806763283,
+     207
+    ],
+    "pre_ident:mid": [
+     0.0,
+     111
+    ],
+    "post": [
+     0.5548941798941799,
+     1512
+    ],
+    "fc_unseen:post": [
+     0.4,
+     10
+    ],
+    "pre_ident:post": [
+     0.0,
+     229
+    ],
+    "k_new:post": [
+     0.41687344913151364,
+     403
+    ],
+    "fc_seen:post": [
+     0.6511627906976745,
+     86
+    ],
+    "weathered:post": [
+     0.5347432024169184,
+     331
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 27,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 5277,
+    "ops_submitted": 198,
+    "batches": 62,
+    "retractions": 0,
+    "decoys_generated": 733,
+    "decoys_adopted": 0,
+    "compress_passes": 21,
+    "adoption_eps": [
+     99,
+     149,
+     324,
+     424
+    ]
+   },
+   "mdl_total": null
+  },
+  "205/29": {
+   "marker": true,
+   "certified": [
+    "k48",
+    "k49"
+   ],
+   "certified_units": {
+    "k48": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0915,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2680.4,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1009,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0915
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k49": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0525,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 874.8,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1009,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0525
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5255016722408027,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     370
+    ],
+    "mid": [
+     0.48875,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     124
+    ],
+    "weathered:mid": [
+     0.2822966507177033,
+     209
+    ],
+    "post": [
+     0.5399339933993399,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     222
+    ],
+    "fc_unseen:post": [
+     0.6363636363636364,
+     22
+    ],
+    "k_new:post": [
+     0.5197368421052632,
+     456
+    ],
+    "weathered:post": [
+     0.5,
+     344
+    ],
+    "fc_seen:post": [
+     0.6197183098591549,
+     71
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 20,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6232,
+    "ops_submitted": 186,
+    "batches": 59,
+    "retractions": 0,
+    "decoys_generated": 856,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     49,
+     499
+    ]
+   },
+   "mdl_total": null
+  },
+  "205/31": {
+   "marker": true,
+   "certified": [
+    "k52",
+    "k53"
+   ],
+   "certified_units": {
+    "k52": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.1077,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 2707.5,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1172,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.1077
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    },
+    "k53": {
+     "productions": [
+      "P4"
+     ],
+     "b": {
+      "margin": 0.0596,
+      "pass": true
+     },
+     "c": {
+      "rent_bits": 781.4,
+      "pass": true
+     },
+     "d_state": "out-of-scope",
+     "e": {
+      "margin_shift": 0.1172,
+      "pass": true,
+      "evaluable": true,
+      "margin_whole_stream_descriptive": 0.0596
+     },
+     "abstention": {
+      "scope": 0,
+      "ref_resolved": 0,
+      "participation": 0,
+      "share": null
+     }
+    }
+   },
+   "accuracy": {
+    "pre": [
+     0.5317725752508361,
+     2392
+    ],
+    "pre_ident:pre": [
+     0.0,
+     357
+    ],
+    "mid": [
+     0.53625,
+     800
+    ],
+    "pre_ident:mid": [
+     0.0,
+     130
+    ],
+    "weathered:mid": [
+     0.42346938775510207,
+     196
+    ],
+    "post": [
+     0.5306930693069307,
+     1515
+    ],
+    "pre_ident:post": [
+     0.0,
+     242
+    ],
+    "weathered:post": [
+     0.46176470588235297,
+     340
+    ],
+    "fc_unseen:post": [
+     0.6333333333333333,
+     30
+    ],
+    "k_new:post": [
+     0.4651741293532338,
+     402
+    ],
+    "fc_seen:post": [
+     0.7142857142857143,
+     63
+    ]
+   },
+   "counts": {
+    "classes": 6,
+    "attrs": 2,
+    "arules": 9,
+    "aprules": 4,
+    "rules": 22,
+    "prules": 6
+   },
+   "stats": {
+    "internal_evals": 6004,
+    "ops_submitted": 195,
+    "batches": 63,
+    "retractions": 0,
+    "decoys_generated": 836,
+    "decoys_adopted": 0,
+    "compress_passes": 23,
+    "adoption_eps": [
+     74,
+     424
+    ]
+   },
+   "mdl_total": null
+  }
+ },
+ "per_seed_marker": {
+  "201": 2,
+  "202": 2,
+  "203": 3,
+  "204": 3,
+  "205": 3
+ },
+ "endpoint": "PRIMARY-MET",
+ "seeds_passing": 5
+}
