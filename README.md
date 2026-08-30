@@ -130,7 +130,7 @@ inside CRUCIBLE, not open-ended learning.
 
 ## Paper
 
-[placeholder — arXiv link on publication]
+Paper: CRUCIBLE: A Preregistered, Adversarially Validated Instrument for Certifying Concept Invention — https://doi.org/10.5281/zenodo.22176977
 
 ## Reporting a break
 

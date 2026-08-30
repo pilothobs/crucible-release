@@ -5,8 +5,8 @@
  "files": {
   ".gitignore": "54b36ce30af2a76a551a5e7ccaf28e73c9d90b93640cff0c69f4ef64ce917aa0",
   "LICENSE": "5993fe2e22f9f7adf51e8d351be78b8d93ec3d1e6ab9bbc989fb7b4163eab701",
-  "CITATION.cff": "42c53c4ed050ce174a03aef193b33e9cababc414c53d47da6cdcaf9f805f8e50",
-  "README.md": "67a61572d9fb18ee3913df2dc23b99ac580916aeeffb1b512434fffa164a5903",
+  "CITATION.cff": "d4b524d10e870be62c4283cf63e473f4dc8fecbe3aa3748fefb67f29b578b764",
+  "README.md": "2945c95c80a1c6f381cf3e7e4d862608e1cc4cf7dff004c8ca3a36b1da37244d",
   "Makefile": "14ea32fd1b50f428512467cc1d0713e966f698ae6424197ddb67a3b7794ff5a7",
   "selfverify.py": "d2e559ebc5835975d8029ca958a7f5e3a91ae0608a5e37e101676a04b115c55c",
   "replicate.py": "7f373712a30f13665b486f48a51f3b3d8491682c8e1c1483378ded37a2bc7cf0",
