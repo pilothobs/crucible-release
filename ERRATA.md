@@ -37,3 +37,21 @@ original execution host ("Axiom") and its filesystem paths (`/mnt/raid`,
 the replication record — and the identifiers carry no secret content;
 they describe the environment the replication was run against, which is
 the report's job. Ruled at release scrub: the lines stay.
+
+## E3 — provenance evidence added post-release (2026-09-05)
+
+`PROVENANCE.md` and `provenance/` were added on 2026-09-05, after the
+release and after the Zenodo deposits. They carry a third-party
+(GitHub platform-log) witness that the criteria document
+(`preregistrations/PREREGISTRATION_001_CONCEPT_CRITERIA.md`, SHA-256
+`702994301924dda574df73a91a5895f7cde6079c8c04e57708a28dca32229455`)
+existed on 2026-08-28T19:18:00Z, before any instrument code reached the
+server (2026-08-28T21:19:32Z), together with OpenTimestamps receipts made
+on 2026-09-05. They also disclose that `PREREGISTRATION_002` — the L3-1
+freeze specification, not the criteria — was revised in place 40 minutes
+after it was first committed and before any contender code existed; the
+committed file is byte-frozen and unedited here, and the literal delta is
+given in the paper's Appendix G. No preregistration or verdict-artifact byte was
+changed by this addition; `MANIFEST.json` (non-frozen, per E1) was
+regenerated in the same commit to index the new files and this entry. Timestamps made on 2026-09-05 prove existence
+as of that date only.

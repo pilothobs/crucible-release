@@ -70,8 +70,14 @@
   "preregistrations/PREREGISTRATION_001_CONCEPT_CRITERIA.md": "702994301924dda574df73a91a5895f7cde6079c8c04e57708a28dca32229455",
   "preregistrations/PREREGISTRATION_003_CRITERIA_OPERATIONALIZATION.md": "43e9606c8cdc30a8c0c8b587d4cb8640d8b06b3c59f2290ae674cf000665649d",
   "preregistrations/PREREGISTRATION_L35_EXP3.md": "47e9f5fa441e89235fc355faa262a62134063e528a2c813e48729880f3444423",
-  "ERRATA.md": "a25dedaf56659f0efddbdd301e5d81a00dc3155985a3660a6020db3efe82b072",
+  "ERRATA.md": "d47eaf916028adcc1ef1e8af075e89e3d4d3653ea0514da67a3602262fbb3f79",
   "L3_0_SPEC.md": "20451480bbe9be548caaa74cab5b8173acd3ef5c7e72ff51cf7d2229b2dd7cf2",
-  "L3_0_THREAT_MODEL.md": "911b5be33bedd461933496b7f6b9c4911f9425ba2e368e546f3a74c8ba88502a"
+  "L3_0_THREAT_MODEL.md": "911b5be33bedd461933496b7f6b9c4911f9425ba2e368e546f3a74c8ba88502a",
+  "PROVENANCE.md": "f613ab2416d8d2736473b39a2babfc45ca51f56daf073fb89edfaecd81ee69be",
+  "provenance/CAPTURE_MANIFEST.md": "aa39ad20c5b477de30d1dcfb7c9863bd2cdc4e55c0c39ce7ae0ac2049bdb2766",
+  "provenance/eid-l3-history.bundle.ots": "186f3471a885d909b30e7f261d5bf6eea19f4eb572ba2e6ec6cefd0d257a1bb3",
+  "provenance/github_activity_capture.json": "eb401797eb069ca4952a60fbb6177b38936a50838853547f4097e742e61656d1",
+  "provenance/github_activity_capture.json.ots": "6293323b81413c83dab65c5f13ce32ebe62aa070171b3643561ac40771a5f31f",
+  "provenance/github_events_capture.json": "7ebe4deaec96ac8a0bdd0b02d15fa89780f77fa655ae69fd6c42b2b40e979465"
  }
 }
